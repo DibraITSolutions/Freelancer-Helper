@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="30"
+        android:translateY="30"
+        android:scaleX="2.0"
+        android:scaleY="2.0">
+
+        <!-- Briefcase Base (#FFFFFF Pure White) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M20,6h-4V4c0-1.1-0.9-2-2-2h-4c-1.1,0-2,0.9-2,2v2H4C2.9,6,2.01,6.9,2.01,8L2,19c0,1.1,0.89,2,2,2h16c1.1,0,2-0.9,2-2V8C22,6.9,21.1,6,20,6z M14,6h-4V4h4V6z" />
+
+        <!-- Elegant 'F' shape -->
+        <path
+            android:fillColor="#1976D2"
+            android:pathData="M9,10h6v2h-4v2h3v2h-3v3h-2V10z" />
+
+        <!-- AI Sparkle / Star (Top Right) (#FFD54F Sleek Gold/Yellow) -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M22,1 l1.5,4 4,1.5 -4,1.5 -1.5,4 -1.5,-4 -4,-1.5 4,-1.5 z" />
+    </group>
+</vector>
